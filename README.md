@@ -1,5 +1,5 @@
 # Server
-# In Angular Form you have create one folder:-
+# In Angular Form you have to create one folder:-
  
  folder name:-server
  
